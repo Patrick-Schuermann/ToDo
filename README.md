@@ -9,7 +9,6 @@ In der ToDo-Liste werden die Aufgaben-Titel angezeigt. Mit einem Klick auf dem T
 
 3 Punkt: Screens
 1 Punkt: Offlinefähigkeit
-
 1 Punkt: Notifications
 1 Punkt: Sinnvolles Testing
 1 Punkt: Dark-Theme
