@@ -1,9 +1,12 @@
 package com.example.todolist;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.UserManager;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
@@ -24,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, DoneList.class);
             startActivity(intent);
         });
+        
     }
 }
